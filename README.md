@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**drfisher/drfisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pavel Rybin, I am a former JavaScript developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Magnit Tech](https://www.magnit.tech)
+- 📫 How to reach me:
+  - [Telegram](https://t.me/drfisher)
+  - [LinkedIn](https://www.linkedin.com/in/drfisher/)
+- 🗞️ Publications
+  - [Генерация страниц сайта средствами сервис-вокеров](https://habrahabr.ru/company/mailru/blog/353232/)
+  - [Перевод статьи "У нас проблемы с промисами" на русский](https://habrahabr.ru/company/mailru/blog/269465/)
+  - [Мой велосипед по локализации Google Chrome расширений](https://habrahabr.ru/post/267501/)
+- 🧑‍💻 [Some weird projects on the Codepen](https://codepen.io/drfisher/)
